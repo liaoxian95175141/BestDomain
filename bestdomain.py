@@ -60,8 +60,7 @@ if __name__ == "__main__":
     
     # 示例URL和子域名对应的IP列表
     subdomain_ip_mapping = {
-        'yx': 'https://raw.liaoxian.top/vip.txt?token=saomei521',
-        'bestproxy': 'https://ipdb.030101.xyz/api/bestproxy.txt',
+        'yx': 'https://raw.liaoxian.top/vip.txt?token=saomei521',       
         # 添加更多子域名和对应的IP列表URL
     }
     
